@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Capitalizacion" skipped="0" tests="1" time="91.58" timestamp="2021-09-24 12:41:19"><testcase name="CC capitalizacion american exitoso"><error message="Timed out after 20 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown</error><system-err>Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown&#13;
+com.AXA.ProyectoPortalDePagos.pageobjects.PagosRecurrentes.SaludMPPPageObjects.ValidarMensajeDePagoExitoso(SaludMPPPageObjects.java:320)&#13;
+com.AXA.ProyectoPortalDePagos.steps.PagosRecurrentes.SaludMPPSteps.ValidarMensajeDePagoExitoso(SaludMPPSteps.java:47)&#13;
+com.AXA.ProyectoPortalDePagos.definitions.PagosRecurrentes.SaludMPPDefinition.valida_que_el_mensaje_de_pago_sea_exitoso(SaludMPPDefinition.java:69)&#13;
+✽.Valida que el mensaje EXITOSO de pago sea exitoso(src/test/resources/features/PagosRecurrentes/Capitalizacion.feature:154)&#13;
+</system-err></testcase></testsuite>

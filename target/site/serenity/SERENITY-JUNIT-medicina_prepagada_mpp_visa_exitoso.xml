@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Medicina Prepagada" skipped="0" tests="1" time="58.33" timestamp="2022-08-01 10:35:30"><testcase name="MPP VISA exitoso"><error message="Timed out after 20 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLVGONZALEZC', ip: '192.168.1.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLVGONZALEZC', ip: '192.168.1.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLVGONZALEZC', ip: '192.168.1.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLVGONZALEZC', ip: '192.168.1.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown</error><system-err>Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLVGONZALEZC', ip: '192.168.1.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLVGONZALEZC', ip: '192.168.1.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown&#13;
+com.AdvantageDemo.AdvantageDemoAutomatizacion.pageobjects.InicioSesion.LoginPageObjects.FormularioDePago(LoginPageObjects.java:285)&#13;
+com.AdvantageDemo.AdvantageDemoAutomatizacion.steps.InicioSesion.LoginSteps.FormularioDePago(LoginSteps.java:32)&#13;
+com.AdvantageDemo.AdvantageDemoAutomatizacion.definitions.InicioSesion.LoginDefinition.diligencio_el_formulario_con_los_campos_de_nombres_apellidos_tipo_de_documento_numero_de_documento_numero_de_telefono_correo_ciudad_direccion_medio_de_pago(LoginDefinition.java:57)&#13;
+✽.Diligencio el formulario con los campos de nombres &lt;Nombres&gt; apellidos &lt;Apellidos&gt; tipo de documento &lt;TipoDoc2&gt; numero de documento &lt;NumDoc&gt; numero de telefono &lt;NumTelefono&gt; correo &lt;Correo&gt; ciudad &lt;Ciudad&gt; direccion &lt;Direccion&gt; medio de pago &lt;MedioPago&gt;(src/test/resources/features/InicioSesion/Login.feature:16)&#13;
+</system-err></testcase></testsuite>

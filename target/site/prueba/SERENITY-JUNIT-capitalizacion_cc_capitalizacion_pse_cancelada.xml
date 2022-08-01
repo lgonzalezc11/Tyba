@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Capitalizacion" skipped="0" tests="1" time="74.53" timestamp="2021-09-24 12:26:24"><testcase name="CC capitalizacion PSE cancelada"><error message="Timed out after 20 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown</error><system-err>Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown&#13;
+com.AXA.ProyectoPortalDePagos.pageobjects.PagosRecurrentes.SaludMPPPageObjects.FormularioMetodoDePagoPSECancelado(SaludMPPPageObjects.java:491)&#13;
+com.AXA.ProyectoPortalDePagos.steps.PagosRecurrentes.SaludMPPSteps.FormularioMetodoDePagoPSECancelado(SaludMPPSteps.java:119)&#13;
+com.AXA.ProyectoPortalDePagos.definitions.PagosRecurrentes.SaludMPPDefinition.diligencio_formulario_PSE_Cancelado_con_Tipo_de_Persona_Banco_Email_Tipo_de_Cuenta_Account_Agency_Account_Number_Password(SaludMPPDefinition.java:149)&#13;
+✽.Diligencio formulario PSE Cancelado con Tipo de Persona Personas Banco 1022 Email generico1.axa@gmail.com Tipo de Cuenta Débito Account Agency 1234 Account Number 123456 Password 123456(src/test/resources/features/PagosRecurrentes/Capitalizacion.feature:249)&#13;
+</system-err></testcase></testsuite>

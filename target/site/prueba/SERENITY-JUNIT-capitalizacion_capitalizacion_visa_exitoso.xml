@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Capitalizacion" skipped="0" tests="1" time="45.96" timestamp="2022-01-05 03:27:07"><testcase name="Capitalizacion VISA exitoso"><error message="Timed out after 20 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown</error><system-err>Timed out after 20 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LPLMRAMIREZT1', ip: '10.65.174.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: unknown&#13;
+com.AXA.ProyectoPortalDePagos.pageobjects.PagosRecurrentes.SaludMPPPageObjects.FormularioDePago(SaludMPPPageObjects.java:261)&#13;
+com.AXA.ProyectoPortalDePagos.steps.PagosRecurrentes.SaludMPPSteps.FormularioDePago(SaludMPPSteps.java:32)&#13;
+com.AXA.ProyectoPortalDePagos.definitions.PagosRecurrentes.SaludMPPDefinition.diligencio_el_formulario_con_los_campos_de_nombres_apellidos_tipo_de_documento_numero_de_documento_numero_de_telefono_correo_ciudad_direccion_medio_de_pago(SaludMPPDefinition.java:56)&#13;
+✽.Diligencio el formulario con los campos de nombres Mariana apellidos Garcia tipo de documento CEDULA numero de documento 75896442 numero de telefono 3202546161 correo gabriela@axacolpatria.co ciudad BOGOTA / BOGOTA direccion Calle 124 a # 04-58 medio de pago visa(src/test/resources/features/PagosRecurrentes/Capitalizacion.feature:16)&#13;
+</system-err></testcase></testsuite>
