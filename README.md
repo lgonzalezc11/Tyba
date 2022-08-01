@@ -2,6 +2,7 @@
 prueba tecnica tyba
 
 Para esta prueba se utilizo la version de java 1.8.0_251
+
 Se utilizo la version de maven 3.6.3
 Se utilizo el patron POM
 Se utilizo estructura gerkhin para diseñar el caso de prueba
